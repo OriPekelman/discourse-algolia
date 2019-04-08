@@ -1,0 +1,13 @@
+current directory: /Users/oripekelman/sites/discourse-test/plugins/discourse-algolia/gems/2.4.5/gems/json-2.1.0/ext/json
+/Users/oripekelman/.rbenv/versions/2.6.1/bin/ruby -I /Users/oripekelman/.rbenv/versions/2.6.1/lib/ruby/2.6.0 -r ./siteconf20190220-70621-1qs3uzq.rb extconf.rb
+creating Makefile
+
+current directory: /Users/oripekelman/sites/discourse-test/plugins/discourse-algolia/gems/2.4.5/gems/json-2.1.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/oripekelman/sites/discourse-test/plugins/discourse-algolia/gems/2.4.5/gems/json-2.1.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/oripekelman/sites/discourse-test/plugins/discourse-algolia/gems/2.4.5/gems/json-2.1.0/ext/json
+make "DESTDIR=" install
